@@ -1,3 +1,5 @@
+-- PART 2
+
 USE mp3player;        -- USO DO BANCO DE DADOS MP3PLAYER
 
 INSERT INTO musicas (DJ, Titulo, Tempo, Genero) VALUES 
