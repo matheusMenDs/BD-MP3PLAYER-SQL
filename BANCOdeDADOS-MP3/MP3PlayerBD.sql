@@ -1,3 +1,5 @@
+-- PART 1
+
 CREATE DATABASE mp3player;    -- CRIAÇÃO DO BANCO DE DADOS 
 
 USE mp3player;      -- USO DO BANCO DE DADOS MP3PLAYER
